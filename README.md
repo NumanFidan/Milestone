@@ -1,7 +1,7 @@
 
 # Milestone
 Hi! You can download the debug-apk file from here: [app-debug.apk
-](https://drive.google.com/open?id=1hPGiFXa8E9NHJvpx9QQXOiMtTDtqhh4W)
+](https://github.com/NumanFidan/Milestone/blob/master/read.me/app-debug.apk)
 
 ** I used TMDB database to fetch all of these data.
 **Popular Movies list is always fetching from TMDB API.
