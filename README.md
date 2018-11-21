@@ -1,7 +1,7 @@
 
 # Milestone
 Hi! You can download the debug-apk file from here: [app-debug.apk
-](https://github.com/NumanFidan/Milestone/blob/master/read.me/app-debug.apk) or
+](https://github.com/NumanFidan/Milestone/raw/master/read.me/app-debug.apk) or
 
 ![](https://github.com/NumanFidan/Milestone/blob/master/read.me/indir.png)
 
