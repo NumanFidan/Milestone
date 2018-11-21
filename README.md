@@ -9,10 +9,10 @@ Hi! You can download the debug-apk file from here: [app-debug.apk
 **Popular Movies list is always fetching from TMDB API.
 **Every time you reach at the end of the list new page will be loading from API.
 **Once you enter a movie detail :
-* First, the app is checking the FireStore database cache.
-* If the movie is not available locally then it checks FireStore Database Server.
-* If the movie is not available at FireStore database than the app calls TMDB API to fetch data.
-* All the fetched data is being saved to FireStore database for further usages.
+ * First, the app is checking the FireStore database cache.
+ * If the movie is not available locally then it checks FireStore Database Server.
+ * If the movie is not available at FireStore database than the app calls TMDB API to fetch data.
+ * All the fetched data is being saved to FireStore database for further usages.
 **So only one user makes an API request to get movie details, all others take information from FireStore or their FireStore local cache.
  
 ** 
