@@ -3,7 +3,7 @@
 Hi! You can download the debug-apk file from here: [app-debug.apk
 ](https://github.com/NumanFidan/Milestone/raw/master/read.me/app-debug.apk) or
 
-![](https://github.com/NumanFidan/Milestone/blob/master/read.me/indir.png)
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fgithub.com%2FNumanFidan%2FMilestone%2Fraw%2Fmaster%2Fread.me%2Fapp-debug.apk&qzone=1&margin=0&size=250x250&ecc=L)
 
 ** I used TMDB database to fetch all of these data.<br/>
 **Popular Movies list is always fetching from TMDB API.<br/>
