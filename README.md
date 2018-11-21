@@ -1,10 +1,13 @@
 
 # Milestone
 Hi! You can download the debug-apk file from here: [app-debug.apk
-](https://github.com/NumanFidan/Milestone/blob/master/read.me/app-debug.apk)
+](https://github.com/NumanFidan/Milestone/blob/master/read.me/app-debug.apk) or
+
+![](https://github.com/NumanFidan/Milestone/blob/master/read.me/indir.png)
 
 ** I used TMDB database to fetch all of these data.
 **Popular Movies list is always fetching from TMDB API.
+**Every time you reach at the end of the list new page will be loading from API.
 **Once you enter a movie detail :
 * First, the app is checking the FireStore database cache.
 * If the movie is not available locally then it checks FireStore Database Server.
