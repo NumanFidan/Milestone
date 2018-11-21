@@ -1,5 +1,6 @@
 
 # Milestone
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `There was a problem with APK file but it is fixed right now.`<br/>
 Hi! You can download the debug-apk file from here: [app-debug.apk
 ](https://github.com/NumanFidan/Milestone/raw/master/read.me/app-debug.apk) or
 
